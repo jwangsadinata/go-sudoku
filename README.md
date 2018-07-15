@@ -30,7 +30,14 @@ Run it the usual way:
 
 ![Sudoku](sudoku.png)
 
+## Acknowledgements
+Credits to [Brendan Jurd][direvus] for the [code][sudoku-library] on puzzle
+generation.
+
+[direvus]: https://github.com/direvus
 [go]: https://golang.org
 [jwangsadinata]: https://github.com/jwangsadinata
 [pixel]: https://github.com/faiface/pixel
+[sudoku-library]: https://github.com/direvus/sudoku
 [sudoku-wiki]: https://en.wikipedia.org/wiki/Sudoku
+
